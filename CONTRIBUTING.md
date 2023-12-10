@@ -20,7 +20,7 @@ By contributing to this project, you agree to abide by its [Code of Conduct](COD
 
 ### Pull Requests
 
-1. Fork the repository and create your branch from `master`.
+1. Fork the repository and create your branch from `main`.
 2. If you've added code, update the documentation accordingly.
 3. Ensure your code follows the existing code style.
 4. Write tests for your new code, and ensure the test suite passes.
