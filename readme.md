@@ -43,7 +43,7 @@ gcc -L. -lft your_c_project.c
 
 ## Contributing
 
-Contributions to `Libft` are welcome. Please read [Contributing](CODE_CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Contributions to `Libft` are welcome. Please read [Contributing](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
